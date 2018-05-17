@@ -134,7 +134,7 @@ if __name__ == '__main__':
     # user.name='这测试1111'
     # user.update()
     # print(user)
-    user=User(name='monicx',password='aaaa1')
+    user=User(name='miaoqinian',password='xxx')
     user.save()
 
 
